@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio of various projects completed
+# Past Projects
+Past projects completed: R, Python, SQL
